@@ -1,0 +1,8 @@
+{
+  "name": " NexusVPN",
+  "description": "High-speed encrypted VPN with global servers, smart security diagnostics, and foreground VpnService integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
